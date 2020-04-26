@@ -56,7 +56,8 @@
   </div> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_154706.jpg" width="200px" height="200px"> 
-   <p>Naveen Kumar Reddy shortly known as Naveen. His branch is EEE.He is all subjects topper in our room. </p> 
+   <p>Naveen Kumar Reddy shortly known as Naveen. His branch is EEE. Beleive or not our foody is famous
+   for his sense of humour. He does naughty things, most chill out bro.</p> 
    <p id="d">Name:Naveen<br>Branch:EEE<br>JNTUACEP</p> 
   </div> 
   <div class="main"> 
