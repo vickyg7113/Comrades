@@ -31,7 +31,9 @@
   </ul> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_154648.jpg" width="200px" height="200px"> 
-   <p>Velupula Venkata Ramana shortly known as raman's. He is studying in ECE branch.He have so many girl friends He is lover boy in our room.</p> 
+   <p>Work is Worship best suites our teddy, his character
+   is a rear combo of wit and wisdom. He will initiate every
+   dam thing in our room</p> 
    <p id="d">Name:Ramana<br>Branch:ECE<br>JNTUACEP</p> 
   </div> 
   <div class="main"> 
