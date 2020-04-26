@@ -1,5 +1,6 @@
 <html>
  <head> 
+  <link rel="stylesheet" type="text/css" href="frnd.css">
  </head> 
  <body> 
   <div class="header"> 
