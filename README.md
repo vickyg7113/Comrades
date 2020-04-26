@@ -32,13 +32,16 @@
   <div class="main"> 
    <img id="i" src="IMG_20200426_154648.jpg" width="200px" height="200px"> 
    <p>Work is Worship best suites our teddy, his character
-   is a rear combo of wit and wisdom. He will initiate every
+    is a rear combo of wit and wisdom. He will initiate every
    dam thing in our room</p> 
    <p id="d">Name:Ramana<br>Branch:ECE<br>JNTUACEP</p> 
   </div> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_154530.jpg" width="200px" height="200px"> 
-   <p>Shaik Umar shortly known as Umar. He is studying in MEC branch. He is also having so many girl friends.</p> 
+   <p>Shaik Umar shortly known as Umar. He is studying in MEC branch. He is also having so many girl friends.
+   His ideology is Attitude is very small thing which makes 
+   big difference. Crazy guy,he mesmarizes everyone with his words
+   .Even, his absence a day accounts a large deficit in our room</p> 
    <p id="d">Name:Umar<br>Branch:MEC<br>JNTUACEP</p> 
   </div> 
   <div class="main"> 
