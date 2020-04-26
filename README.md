@@ -4,7 +4,7 @@
  </head> 
  <body> 
   <div class="header"> 
-   <img id="v" src="IMG_20200426_214055.jpg">
+   <img id="v" src="IMG_20200426_214055.jpg" title="Vamshi">
     <h1>7th Room Comrades</h1>
   </div> 
   <ul> 
