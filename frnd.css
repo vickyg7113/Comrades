@@ -11,6 +11,12 @@ body{
   text-align:center;
   line-height:100px;
  }
+ #v{
+   width:100px;
+   height:100px;
+   float:left;
+   display:block;  
+ }
  ul{
  display:block;
  list-style:none;
