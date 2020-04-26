@@ -58,6 +58,7 @@ ul li:hover ul li{
   text-align:center;
   font-size:200%;
   border-top:10px;
+ text-shadow:3px; 3px; 2px; red;
 }
 .main:hover{
   background-color:#f8b195;
