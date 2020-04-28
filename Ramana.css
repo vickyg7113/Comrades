@@ -8,3 +8,9 @@ body{
   text-align:center;
   line-height:40px;
   }
+#r{
+  width:100px;
+  height:100px;
+  float:left;
+  display:block;
+  }
