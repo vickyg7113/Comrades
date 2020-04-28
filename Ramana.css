@@ -5,4 +5,7 @@ body{
   margin:10px;
   background-color:yellow;
   opacity:0.4;
+  height:40px;
+  text-align:center;
+  line-height:40px;
   }
