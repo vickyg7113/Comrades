@@ -13,7 +13,7 @@
    <li><a>Home</a></li> 
    <li><a>My Friends</a> 
     <ul> 
-     <li><a>Ramana</a></li> 
+     <li><a href="Ramana.html">Ramana</a></li> 
      <li><a>Umar</a></li> 
      <li><a>Moneeshwar</a></li> 
      <li><a>Karthik</a></li> 
