@@ -10,7 +10,7 @@
     <h1>7th Room Comrades</h1>
   </div> 
   <ul> 
-   <li><a>Home</a></li> 
+   <li><a href="README.md">Home</a></li> 
    <li><a>My Friends</a> 
     <ul> 
      <li><a href="Ramana.html">Ramana</a></li> 
