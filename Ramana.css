@@ -37,6 +37,24 @@ ul li:hover{
   background-color:#ADFF2F;
   color:black;
 }
+ul li ul li{
+  list-style:none;
+  text-decoration:none;
+  width:100px;
+  display:block;
+  margin:0px;
+  font-size:100%;
+  margin-top:10px;
+  display:none;
+  margin-left:0px;
+}
+ul li ul li a:hover{
+  background-color:#cccc00;
+  color:white;
+}
+ul li:hover ul li{
+  display:block;
+  }
 #i{
   display:block;
   margin-left:auto;
