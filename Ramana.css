@@ -19,6 +19,10 @@ body{
   margin:10px;
   border-top:dashed black;
 }
+ul li a{
+  text-decoration:none;
+  color:red;
+}
 ul li{
   float:left;
   display:block;
@@ -28,6 +32,7 @@ ul li{
   margin-left:90px;
   background-color:#cccc00;
 }
+
 ul li:hover{
   background-color:#ADFF2F;
   color:black;
