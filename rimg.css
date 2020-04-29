@@ -24,4 +24,8 @@ body{
   border-radius:30px;
   box-shadow:3px 3px 2px black;
   margin:8px;
+  transition:1s;
+}
+#a:hover{
+ border-radius:50%;
 }
