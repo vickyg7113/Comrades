@@ -75,9 +75,11 @@
    <p id="d">Name:Purushotham<br>Branch:EEE<br>JNTUACEP</p> 
   </div> 
   <div class="main">
-   <img id="i" src="
-  
-  <div id="footer">
+   <img id="i" src="IMG_20200426_214055.jpg" width="200px" height="200px">
+   <p>Vamshi is innocent</p>
+   <p id="d">Name:G.Vamshi<br>Branch:CSE<br>JNTUACEP</p>
+   </div>
+ <div id="footer">
     ©All rights are reserved 
   </div> 
  </body>
