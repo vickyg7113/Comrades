@@ -74,6 +74,9 @@
    <p>Ganga Purushotham Reddy shortly known as Puru. His branch is EEE.He is playboy and Love Puru in our room.</p> 
    <p id="d">Name:Purushotham<br>Branch:EEE<br>JNTUACEP</p> 
   </div> 
+  <div class="main">
+   <img id="i" src="
+  
   <div id="footer">
     ©All rights are reserved 
   </div> 
