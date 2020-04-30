@@ -1,1 +1,163 @@
-
+body{
+ margin:10px;
+ padding:0px;
+ background-color:yellow;
+}
+.header{
+  background-color:#fed315;
+  height:90px;
+  margin:10px;
+  text-align:center;
+  line-height:90px;
+  font-size:110%;
+}
+#n{
+  float:left;
+}
+.container1{
+  background-color:orange;
+  height:500px;
+  width:48%;
+  margin-left:10px;
+  margin-top:10px;
+  display:flex;
+  float:left;
+}
+.image1{
+  background-image:url('IMG_20200426_154706.jpg');
+  background-size:100%;
+  width:400px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:49px;
+  transition:1s;
+  border-radius:25%;
+}
+.image1:hover{
+  background-size:120%;
+  background-position:center;
+}
+.container2{
+  background-color:orange;
+  height:500px;
+  width:48%;
+  margin-left:2px;
+  margin-top:10px;
+  margin:right:10px;
+  float:right;
+  display:flex;
+}
+.image2{
+  background-image:url('IMG20190902065330.jpg');
+  background-size:100%;
+  width:400px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:49px;
+  transition:1s;
+  border-radius:25%;
+}
+.image2:hover{
+  background-size:120%;
+  background-position:center;
+}
+.container3{
+  background-color:orange;
+  height:500px;
+  width:48%;
+  margin-left:10px;
+  margin-top:10px;
+  float:left;
+  display:flex;
+}
+.image3{
+  background-image:url('naveen1.jpg');
+  background-size:100%;
+  width:400px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:49px;
+  transition:1s;
+  border-radius:25%;
+}
+.image3:hover{
+  background-size:110%;
+  background-position:center;
+}
+.container4{
+  background-color:orange;
+  height:500px;
+  width:48%;
+  margin-left:2px;
+  margin-top:10px;
+  margin:right:10px;
+  float:right;
+  display:flex;
+}
+.image4{
+  background-image:url('IMG-20191220-WA0021.jpg');
+  background-size:100%;
+  width:400px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:49px;
+  transition:1s;
+  border-radius:25%;
+}
+.image4:hover{
+  background-size:120%;
+  background-position:center;
+}
+.container5{
+  background-color:orange;
+  height:500px;
+  width:48%;
+  margin-left:10px;
+  margin-top:10px;
+  display:flex;
+  float:left;
+}
+.image5{
+  background-image:url('IMG-20191220-WA0026.jpg');
+  background-size:100%;
+  width:400px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:49px;
+  transition:1s;
+  border-radius:25%;
+}
+.image5:hover{
+  background-size:120%;
+  background-position:center;
+}
+.container6{
+  background-color:orange;
+  height:500px;
+  width:48%;
+  margin-left:2px;
+  margin-top:10px;
+  margin:right:10px;
+  float:right;
+  display:flex;
+}
+.image6{
+  background-image:url('IMG20190830093640.jpg');
+  background-size:100%;
+  width:400px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:49px;
+  transition:1s;
+  border-radius:25%;
+}
+.image6:hover{
+  background-size:120%;
+  background-position:center;
+}
