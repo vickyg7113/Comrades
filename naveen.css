@@ -112,3 +112,27 @@ body{
   background-size:120%;
   background-position:center;
 }
+.container5{
+  background-color:orange;
+  height:500px;
+  width:48%;
+  margin-left:10px;
+  margin-top:10px;
+  display:flex;
+  float:left;
+}
+.image5{
+  background-image:url('IMG_20200426_154706.jpg');
+  background-size:100%;
+  width:400px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:49px;
+  transition:1s;
+  border-radius:25%;
+}
+.image5:hover{
+  background-size:120%;
+  background-position:center;
+}
