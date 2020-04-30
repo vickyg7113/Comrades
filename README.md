@@ -1,9 +1,9 @@
 <html>
  <head> 
   <link rel="stylesheet" type="text/css" href="frnd.css">
-  <script src="test.js">
-   </script>
- </head> 
+  
+  
+</head> 
  <body> 
   <div class="header"> 
    <img id="v" src="IMG_20200426_214055.jpg" title="Vamshi">
