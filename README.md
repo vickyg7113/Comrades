@@ -1,7 +1,8 @@
 <html>
  <head> 
   <link rel="stylesheet" type="text/css" href="frnd.css">
-  
+  <script src="test.js">
+   </script>
   
 </head> 
  <body> 
