@@ -34,12 +34,12 @@
      <li><a>Mail-Id</a></li> 
     </ul> </li> 
   </ul> 
-    <a href="Ramana.html"><div class="main"></a>
+    <div class="main">
    <img id="i" src="IMG_20200426_154648.jpg" width="200px" height="200px"> 
    <p>Work is Worship best suites our teddy, his character
     is a rear combo of wit and wisdom. He will initiate every
    dam thing in our room</p> 
-   <p id="d">Name:Ramana<br>Branch:ECE<br>JNTUACEP</p> 
+<a href="Ramana.html"><p id="d">Name:Ramana<br>Branch:ECE<br>JNTUACEP</p></a>
   </div> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_154530.jpg" width="200px" height="200px"> 
