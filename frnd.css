@@ -75,10 +75,13 @@ ul li:hover ul li{
   font-family:cursive;
   font-size:200%;
   padding-top:10px;
+ color:white;
+ text-decoration:none;
 }
 #d:hover{
   background-color:black;
   box-shadow:inset 0px 0px 30px yellow;
+ color:white;
 }
 #i{
   border-radius:25%;
