@@ -47,38 +47,38 @@
    His ideology is Attitude is very small thing which makes 
    big difference. Crazy guy,he mesmarizes everyone with his words
    .Even, his absence a day accounts a large deficit in our room</p> 
-   <p id="d">Name:Umar<br>Branch:MEC<br>JNTUACEP</p> 
+   <a href="umar.html"><p id="d">Name:Umar<br>Branch:MEC<br>JNTUACEP</p></a>
   </div> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_154624.jpg" width="200px" height="200px"> 
    <p>Moneeshwar Soddala shortly known as Moni. He is studying in MEC branch. He is formal topper of our university.</p> 
-   <p id="d">Name:Moneeshwar<br>Branch:MEC<br>JNTUACEP</p> 
+   <a href="moni.html"><p id="d">Name:Moneeshwar<br>Branch:MEC<br>JNTUACEP</p></a>
   </div> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_154500.jpg" width="200px" height="200px"> 
    <p>Guru Siva Karthik shortly known as Karthik. His branch is EEE.He is mathematics topper in our room.</p> 
-   <p id="d">Name:Karthik<br>Branch:EEE<br>JNTUACEP</p> 
+  <a href="Karthik.html"><p id="d">Name:Karthik<br>Branch:EEE<br>JNTUACEP</p></a>
   </div> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_154706.jpg" width="200px" height="200px"> 
    <p>Naveen Kumar Reddy shortly known as Naveen. His branch is EEE. Beleive or not our foody is famous
    for his sense of humour. He does naughty things, most chill out bro.</p> 
-   <p id="d">Name:Naveen<br>Branch:EEE<br>JNTUACEP</p> 
+   <a href="naveen.html"><p id="d">Name:Naveen<br>Branch:EEE<br>JNTUACEP</p></a>
   </div> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_165332.jpg" width="200px" height="200px"> 
    <p>Anjan Kumar shortly known as Anjan. His branch is ECE.He is all subjects topper in our room. He is also a playboy</p> 
-   <p id="d">Name:Anjan<br>Branch:ECE<br>JNTUACEP</p> 
+  <a href="anjan.html"><p id="d">Name:Anjan<br>Branch:ECE<br>JNTUACEP</p></a>
   </div> 
   <div class="main"> 
    <img id="i" src="IMG_20200426_154549.jpg" width="200px" height="200px"> 
    <p>Ganga Purushotham Reddy shortly known as Puru. His branch is EEE.He is playboy and Love Puru in our room.</p> 
-   <p id="d">Name:Purushotham<br>Branch:EEE<br>JNTUACEP</p> 
+   <a href="puru.html"><p id="d">Name:Purushotham<br>Branch:EEE<br>JNTUACEP</p></a>
   </div> 
   <div class="main">
    <img id="i" src="IMG_20200426_214055.jpg" width="200px" height="200px">
    <p>Vamshi is innocent</p>
-   <p id="d">Name:G.Vamshi<br>Branch:CSE<br>JNTUACEP</p>
+   <a href="vamshi.html"><p id="d">Name:G.Vamshi<br>Branch:CSE<br>JNTUACEP</p></a>
    </div>
  <div id="footer">
     ©All rights are reserved 
