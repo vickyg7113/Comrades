@@ -34,7 +34,7 @@
      <li><a>Mail-Id</a></li> 
     </ul> </li> 
   </ul> 
-  <div class="main"> 
+    <a href="Ramana.html"><div class="main"></a>
    <img id="i" src="IMG_20200426_154648.jpg" width="200px" height="200px"> 
    <p>Work is Worship best suites our teddy, his character
     is a rear combo of wit and wisdom. He will initiate every
